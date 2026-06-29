@@ -80,3 +80,5 @@ https://github.com/codertheashish
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
+<img width="1448" height="1086" alt="Internet_checker" src="https://github.com/user-attachments/assets/24786746-613c-435b-8673-c6dac3d882f1" />
