@@ -73,12 +73,14 @@ Results are displayed in Mbps for easy understanding.
 
 **Ashish Kumar Prajapati**
 
-* GitHub: 
+- GitHub :
+[codertheashish](https://github.com/codertheashish)
+- LinkedIn :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
+---
 
-https://github.com/codertheashish
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
 
 <img width="1448" height="1086" alt="Internet_checker" src="https://github.com/user-attachments/assets/24786746-613c-435b-8673-c6dac3d882f1" />
