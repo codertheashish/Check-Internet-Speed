@@ -28,7 +28,7 @@ Internet-Speed-Checker/
 1. Clone the repository:
 
 ```bash
-https://github.com/codertheashish/Check-Internet-Speed
+https://github.com/codertheashish/Check-Internet-Speed.git
 ```
 
 2. Navigate to the project folder:
