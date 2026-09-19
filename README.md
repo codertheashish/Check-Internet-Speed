@@ -81,6 +81,6 @@ Results are displayed in Mbps for easy understanding.
 [codertheashish](https://www.instagram.com/codertheashish/)
 ---
 
-⭐ If you like this portfolio, don't forget to give it a star on GitHub.
+⭐ If you like this portfolio, don't forget to give it a star on my GitHub.
 
 <img width="1448" height="1086" alt="Internet_checker" src="https://github.com/user-attachments/assets/24786746-613c-435b-8673-c6dac3d882f1" />
